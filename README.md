@@ -33,7 +33,7 @@ Nacos provides four major funcations.
 It is super easy to get started with your first project.
 
 #### Download run package 
-[Download](https://pan.baidu.com/s/1FsPzIK8lQ8VSNucI57H67A)
+[Download](https://github.com/alibaba/nacos/releases/download/v0.1.0/nacos-server-0.1.0.zip)
 
 ```
 unzip nacos-server-0.1.0.zip
@@ -43,7 +43,7 @@ cd nacos/bin
 #### Start Server
 ##### Linux/Unix/Mac
 
-Run the following command to sart(standalone means non-cluster mode): 
+Run the following command to start (standalone means non-cluster mode): 
 
 `sh startup.sh -m standalone`
 
@@ -54,7 +54,7 @@ Run the following command to start:
 
 Or double-click the startup.cmd to run NacosServer.
 
-you can see detail in https://nacos.io/#/docs/quick-start.md
+For more details, see https://nacos.io/#/docs/quick-start.md
 
 Quick start for other open-source projects:
 
